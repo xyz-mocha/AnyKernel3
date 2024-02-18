@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Pitron Kernel EAS
+kernel.string=Pitron Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -62,4 +62,3 @@ write_boot;
 
 #flash_boot;
 ## end vendor_boot install
-
